@@ -23,6 +23,6 @@ Contains just 3 classes and the static swagger-ui application in the resource fo
     - /swagger-ui/ : the swagger-ui application pointing to the Hello World REST API : http://localhost:8080/swagger-ui/index.html
     
 ## references
-https://github.com/swagger-api/swagger-ui
-https://github.com/jetty/jetty.project/
-https://github.com/eclipse-ee4j/jersey
+- https://github.com/swagger-api/swagger-ui
+- https://github.com/jetty/jetty.project/
+- https://github.com/eclipse-ee4j/jersey
